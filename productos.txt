@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HILUX",
+    "price": "10000",
+    "thumbnail": "https://cdn.motor1.com/images/mgl/vkekA/s1/toyota-hilux-2021.jpg",
+    "id": 1
+  },
+  {
+    "title": "RANGER",
+    "price": "20000",
+    "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_57e26e28b95a4620ae3b3dec50fb5a22.jpg",
+    "id": 2
+  },
+  {
+    "title": "F100",
+    "price": "30000",
+    "thumbnail": "https://i0.wp.com/www.motorwebargentina.com/wp-content/uploads/2021/11/Ford-F-100-Eluminator-7.jpg?fit=1024%2C647&ssl=1",
+    "id": 3
+  },
+  {
+    "title": "BRONCO",
+    "price": "40000",
+    "thumbnail": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/m/RT_V_5094a44b425b4953a52505a7018e410d.jpg",
+    "id": 4
+  }
+]
